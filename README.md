@@ -1,1 +1,1 @@
-# collections-java-api-2024
+# COLLECTIONS-JAVA-API-2024
